@@ -23,6 +23,15 @@ This project demonstrates how to use **pre-trained GloVe word embeddings** to co
 
 ---
 
+### 📚 Example Output
+
+Top 3 most similar words to 'pear':
+1. peach — Similarity: 0.7705
+2. apples — Similarity: 0.6245
+3. apple — Similarity: 0.5890
+
+---
+
 ### 🛠️ Requirements
 
 ```bash
